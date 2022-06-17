@@ -1,0 +1,14 @@
+[
+  {
+    "package": "aniview",
+    "oncran": true
+  },
+  {
+    "package": "aos",
+    "oncran": true
+  },
+  {
+    "package": "gotop",
+    "oncran": true
+  }
+]

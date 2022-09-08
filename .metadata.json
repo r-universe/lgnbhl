@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "BFS",
+    "oncran": true
+  },
+  {
     "package": "gotop",
     "oncran": true
   }

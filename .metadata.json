@@ -1,18 +1,18 @@
 [
   {
-    "package": "BFS",
-    "oncran": true
-  },
-  {
     "package": "aniview",
     "oncran": true
   },
   {
-    "package": "gotop",
+    "package": "aos",
     "oncran": true
   },
   {
-    "package": "aos",
+    "package": "BFS",
+    "oncran": true
+  },
+  {
+    "package": "gotop",
     "oncran": true
   }
 ]

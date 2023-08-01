@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BFS"]
+	path = BFS
+	url = https://github.com/lgnbhl/bfs
 [submodule "aniview"]
 	path = aniview
 	url = https://github.com/lgnbhl/aniview
 [submodule "aos"]
 	path = aos
 	url = https://github.com/lgnbhl/aos
-[submodule "BFS"]
-	path = BFS
-	url = https://github.com/lgnbhl/bfs
 [submodule "gotop"]
 	path = gotop
 	url = https://github.com/lgnbhl/gotop

@@ -14,3 +14,6 @@
 [submodule "gotop"]
 	path = gotop
 	url = https://github.com/lgnbhl/gotop
+[submodule "xlcharts"]
+	path = xlcharts
+	url = https://github.com/cran/xlcharts

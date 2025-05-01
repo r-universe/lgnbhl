@@ -17,6 +17,9 @@
 [submodule "gotop"]
 	path = gotop
 	url = https://github.com/lgnbhl/gotop
+[submodule "reactRouter"]
+	path = reactRouter
+	url = https://github.com/lgnbhl/reactrouter
 [submodule "xlcharts"]
 	path = xlcharts
 	url = https://github.com/lgnbhl/xlcharts

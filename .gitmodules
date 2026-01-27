@@ -17,6 +17,12 @@
 [submodule "gotop"]
 	path = gotop
 	url = https://github.com/lgnbhl/gotop
+[submodule "muiMaterial"]
+	path = muiMaterial
+	url = https://github.com/lgnbhl/muimaterial
+[submodule "muiTreeView"]
+	path = muiTreeView
+	url = https://github.com/lgnbhl/muitreeview
 [submodule "reactRouter"]
 	path = reactRouter
 	url = https://github.com/lgnbhl/reactrouter

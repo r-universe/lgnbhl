@@ -1,0 +1,14 @@
+[
+  {
+    "package": "muiCharts",
+    "url": "https://github.com/lgnbhl/muiCharts",
+    "via": ["reactRouter"],
+    "from": "reactRouter"
+  },
+  {
+    "package": "muiDataGrid",
+    "url": "https://github.com/lgnbhl/muiDataGrid",
+    "via": ["reactRouter"],
+    "from": "reactRouter"
+  }
+]

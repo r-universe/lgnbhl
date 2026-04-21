@@ -14,6 +14,14 @@
 [submodule "gotop"]
 	path = gotop
 	url = https://github.com/lgnbhl/gotop
+[submodule "muiCharts"]
+	path = muiCharts
+	url = https://github.com/lgnbhl/muiCharts
+	registered = false
+[submodule "muiDataGrid"]
+	path = muiDataGrid
+	url = https://github.com/lgnbhl/muiDataGrid
+	registered = false
 [submodule "muiMaterial"]
 	path = muiMaterial
 	url = https://github.com/lgnbhl/muimaterial
